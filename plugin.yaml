@@ -1,0 +1,6 @@
+plugin:
+    name: 'gbc.mediafilerenamer::lang.plugin.name'
+    description: 'gbc.mediafilerenamer::lang.plugin.description'
+    author: GregoryBrown
+    icon: icon-code
+    homepage: 'https://gregorybrown.com.br/'

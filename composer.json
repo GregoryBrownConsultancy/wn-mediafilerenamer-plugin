@@ -1,0 +1,16 @@
+{
+  "name": "gbc/wn-mediafilerenamer-plugin",
+  "type": "winter-plugin",
+  "description": "Media File Renamer plugin that sanitizes uploaded media names",
+  "keywords": ["winter", "wintercms", "media", "plugin", "sanitize", "seo"],
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Gregory Brown Consulting",
+          "homepage": "https://gregorybrown.com.br"
+      }
+  ],
+  "require": {
+      "composer/installers": "~1.0"
+  }
+}
